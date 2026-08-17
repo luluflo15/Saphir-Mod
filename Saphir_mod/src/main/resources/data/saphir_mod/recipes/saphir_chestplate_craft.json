@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "saphir_mod:saphir"
+    }
+  },
+  "result": {
+    "item": "saphir_mod:saphir_armure_chestplate",
+    "count": 1
+  }
+}

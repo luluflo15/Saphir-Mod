@@ -1,0 +1,441 @@
+{
+  "mod_elements": [
+    {
+      "name": "SaphirPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/saphirmod/item/SaphirPickaxeItem.java",
+          "src/main/resources/assets/saphir_mod/models/item/saphir_pickaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirmod",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirmod",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Saphir",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/saphirmod/item/SaphirItem.java",
+          "src/main/resources/assets/saphir_mod/models/item/saphir.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirpickaxecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirpickaxecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirpickaxecraft.json",
+          "src/main/resources/data/saphir_mod/recipes/saphir_pickaxe_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirminerait",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirminerais",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/worldgen/placed_feature/saphirminerais.json",
+          "src/main/resources/assets/saphir_mod/models/block/saphirminerais.json",
+          "src/main/java/net/mcreator/saphirmod/block/SaphirmineraitBlock.java",
+          "src/main/resources/data/saphir_mod/worldgen/configured_feature/saphirminerais.json",
+          "src/main/resources/data/saphir_mod/forge/biome_modifier/saphirminerais_biome_modifier.json",
+          "src/main/resources/assets/saphir_mod/models/item/saphirminerais.json",
+          "src/main/resources/assets/saphir_mod/blockstates/saphirminerais.json",
+          "src/main/resources/data/saphir_mod/loot_tables/blocks/saphirminerais.json"
+        ]
+      }
+    },
+    {
+      "name": "SaphirSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/saphir_mod/models/item/saphir_sword.json",
+          "src/main/java/net/mcreator/saphirmod/item/SaphirSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Saphirswordcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirswordcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_sword_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirswordcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/saphir_mod/blockstates/saphirblock.json",
+          "src/main/resources/data/saphir_mod/loot_tables/blocks/saphirblock.json",
+          "src/main/java/net/mcreator/saphirmod/block/SaphirblockBlock.java",
+          "src/main/resources/assets/saphir_mod/models/item/saphirblock.json",
+          "src/main/resources/assets/saphir_mod/models/block/saphirblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirblockcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirblockcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_block_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirblockcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirorecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirorecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphirorecraft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirorecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphiraxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphiraxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/saphirmod/item/SaphiraxeItem.java",
+          "src/main/resources/assets/saphir_mod/models/item/saphiraxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirshovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirshovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/saphir_mod/models/item/saphirshovel.json",
+          "src/main/java/net/mcreator/saphirmod/item/SaphirshovelItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Saphirshovelcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirshovelcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirshovelcraft.json",
+          "src/main/resources/data/saphir_mod/recipes/saphirshovelcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirhoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirhoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/saphir_mod/models/item/saphirhoe.json",
+          "src/main/java/net/mcreator/saphirmod/item/SaphirhoeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Saphirhoecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirhoecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirhoecraft.json",
+          "src/main/resources/data/saphir_mod/recipes/saphir_hoe_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirboots",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir_armure",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/saphir_mod/models/item/saphir_armure_boots.json",
+          "src/main/java/net/mcreator/saphirmod/item/SaphirbootsItem.java",
+          "src/main/resources/assets/saphir_mod/models/item/saphir_armure_helmet.json",
+          "src/main/resources/assets/saphir_mod/models/item/saphir_armure_chestplate.json",
+          "src/main/resources/assets/saphir_mod/models/item/saphir_armure_leggings.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirbootscraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirbootscraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_boots_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirbootscraft.json"
+        ]
+      }
+    },
+    {
+      "name": "SaphirHelmetcraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir_helmetcraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_helmet_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphir_helmetcraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirchestplatecraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirchestplatecraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_chestplate_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirchestplatecraft.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirleggingscraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphirleggingscraft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_leggings_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphirleggingscraft.json"
+        ]
+      }
+    },
+    {
+      "name": "SaphirAxeCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir_axe_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/recipes/saphir_axe_craft.json",
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphir_axe_craft.json"
+        ]
+      }
+    },
+    {
+      "name": "SaphirAxeCraft2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saphir_axe_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/advancements/recipes/saphir_axe_craft_2.json",
+          "src/main/resources/data/saphir_mod/recipes/saphir_axe_craft_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Saphirmegaoutil",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_tool",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/saphir_mod/models/item/super_tool.json",
+          "src/main/java/net/mcreator/saphirmod/item/SaphirmegaoutilItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SuperToolCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "super_tool_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/saphir_mod/advancements/recipes/super_tool_craft.json",
+          "src/main/resources/data/saphir_mod/recipes/super_tool_craft.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Saphirmegaoutil",
+      "~CUSTOM:SaphirPickaxe"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Saphirblock",
+      "~CUSTOM:Saphirminerait"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Saphirmegaoutil",
+      "~CUSTOM:SaphirSword"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Saphirmegaoutil",
+      "~CUSTOM:Saphiraxe"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:Saphirshovel"
+    ],
+    "ITEMS:saphir_mod:saphirshovel_repair_items": [],
+    "ITEMS:saphir_mod:saphir_pickaxe_repair_items": [],
+    "ITEMS:saphir_mod:saphir_sword_repair_items": [],
+    "ITEMS:saphir_mod:saphiraxe_repair_items": [],
+    "ITEMS:minecraft:hoes": [
+      "~CUSTOM:Saphirhoe"
+    ],
+    "ITEMS:saphir_mod:saphirhoe_repair_items": [],
+    "ITEMS:minecraft:head_armor": [],
+    "ITEMS:minecraft:chest_armor": [],
+    "ITEMS:minecraft:leg_armor": [],
+    "ITEMS:minecraft:foot_armor": [],
+    "ITEMS:saphir_mod:saphir_armure_repair_items": [],
+    "ITEMS:saphir_mod:saphirmegaoutil_repair_items": [],
+    "ITEMS:saphir_mod:super_toole_repair_items": [],
+    "ITEMS:saphir_mod:super_tool_repair_items": [],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~CUSTOM:Saphirblock",
+      "~CUSTOM:Saphirminerait"
+    ]
+  },
+  "tab_element_order": {
+    "CUSTOM:Saphirmod": [
+      "SaphirPickaxe",
+      "SaphirSword",
+      "Saphiraxe",
+      "Saphirshovel",
+      "Saphirhoe",
+      "Saphirmegaoutil",
+      "Saphirboots",
+      "Saphir",
+      "Saphirblock",
+      "Saphirminerait"
+    ]
+  },
+  "language_map": {
+    "en_us": {
+      "item.le_mod_demilia.saphir_pickaxe": "Saphir Pickaxe",
+      "item_group.le_mod_demilia.saphirmod": "Saphir mod",
+      "item.le_mod_demilia.saphir": "Saphir",
+      "item.le_mod_demilia.saphirminerait": "Saphir_minerait",
+      "item.le_mod_demilia.saphir_sword": "Saphir Sword",
+      "item.le_mod_demilia.saphirblock": "Saphir block",
+      "item.le_mod_demilia.saphiraxe": "Saphir axe",
+      "item.saphir_mod.saphir_pickaxe": "Saphir Pickaxe",
+      "item_group.saphir_mod.saphirmod": "Saphir mod",
+      "item.saphir_mod.saphir": "Saphir",
+      "item.saphir_mod.saphirminerait": "minerait de saphir",
+      "item.saphir_mod.saphir_sword": "Saphir Sword",
+      "item.saphir_mod.saphirblock": "Saphir block",
+      "item.saphir_mod.saphiraxe": "Saphir axe",
+      "item.saphir_mod.saphirshovel": "Saphir shovel",
+      "item.saphir_mod.saphirhoe": "Saphir hoe",
+      "item.saphir_mod.saphir_armure_helmet": "Casque en Saphir",
+      "item.saphir_mod.saphir_armure_chestplate": "Plastron Saphir",
+      "item.saphir_mod.saphir_armure_leggings": "Jambières de Saphir",
+      "item.saphir_mod.saphir_armure_boots": "Bottes en Saphir",
+      "item.saphir_mod.super_tool": "Super Tool",
+      "block.saphir_mod.saphirblock": "Saphir block",
+      "block.saphir_mod.saphirminerais": "minerais de saphir"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/saphirmod/init/SaphirModModBlocks.java",
+      "src/main/java/net/mcreator/saphirmod/init/SaphirModModItems.java",
+      "src/main/resources/META-INF/mods.toml",
+      "src/main/java/net/mcreator/saphirmod/init/SaphirModModTabs.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/saphirmod/SaphirModMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "saphir_mod",
+    "modName": "Saphir Mod",
+    "version": "1.0.0",
+    "description": "Saphir Mod ajoute le saphir à Minecraft avec de nouveaux minerais, outils, armures et objets.",
+    "author": "Luluflo15",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Saphir Mod créé par Luluflo15 avec MCreator.",
+    "modElementsPackage": "net.mcreator.saphirmod"
+  },
+  "mcreatorVersion": 202600113616
+}

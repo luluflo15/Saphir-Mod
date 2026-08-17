@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "saphir_mod:block/saphir_minerai",
+    "up": "saphir_mod:block/saphir_minerai",
+    "north": "saphir_mod:block/saphir_minerai",
+    "east": "saphir_mod:block/saphir_minerai",
+    "south": "saphir_mod:block/saphir_minerai",
+    "west": "saphir_mod:block/saphir_minerai",
+    "particle": "saphir_mod:block/saphir_minerai"
+  },
+  "render_type": "solid"
+}

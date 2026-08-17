@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Saphir"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Saphir"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Saphirboots.boots"
+    },
+    "name": "saphir_boots_craft",
+    "namespace": "mod"
+  }
+}

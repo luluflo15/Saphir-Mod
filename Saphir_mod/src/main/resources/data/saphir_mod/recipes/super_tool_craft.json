@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "saphir_mod:saphirblock"
+    },
+    "b": {
+      "item": "saphir_mod:saphiraxe"
+    }
+  },
+  "result": {
+    "item": "saphir_mod:super_tool",
+    "count": 1
+  }
+}
